@@ -3,5 +3,5 @@
 * I hold a MS in Computer Science and my academic journey focused on Data Science and Machine Learning.
 * I am a Biomedical Engineer, and my main interests are programming, signal and image processing.
 
-email: [rodrigocastillogl@gmail.com](rodrigocastillogl@gmail.com)
-LinkedIn: [https://www.linkedin.com/in/rodrigocastillogl/](https://www.linkedin.com/in/rodrigocastillogl/)
+> email: [rodrigocastillogl@gmail.com](rodrigocastillogl@gmail.com)
+> LinkedIn: [https://www.linkedin.com/in/rodrigocastillogl/](https://www.linkedin.com/in/rodrigocastillogl/)
